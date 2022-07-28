@@ -1,5 +1,5 @@
-# (Communicating findings )
-## by (Bright Ofori Boye Eshun)
+# Communicating findings
+## by Bright Ofori Boye Eshun
 
 
 ## Dataset
@@ -9,13 +9,13 @@
 
 ## Summary of Findings
 
-### Finding under the Univariate plots
+### Findings under the Univariate plots
 >
 
 > All the users rode for more than 250 secs, majority of them rode in the range 250 and 2000 secs. At around 250 secs, the number of trips began to increase from 8000 trips with an increasing in duration sec to 12000 then it peaks at 650 secs. We realise that the trips decreases from 1200 downwards as the duration approaches 2000 secs. From the age distrution we realize the distribution is skewed positively and also more trips are concerntrated between the ages of 20 and 40 with most of them being 31 years old. Amongst the users, subscribers occupied more than 0.75 fraction of the total and gender wise most of these users were males, occupying 74.6 percent of the total.
 
 
-### Finding under the Bivariate plots
+### Findings under the Bivariate plots
 >
 
 >All three genders had almost the same median duration but averagely, female and other took longer trips than males, which is interesting. Male, female and other had a lot of outliers when plotted(boxplot) against duration. Most frequest users who took longer trips were within the ages of 25 and 35 years. Also we realise that most users who crossed the 1000 sec duration were between the ages of 20 and 60 years. Most of the ages in all genders were also concerntrated around the ages of 20 to 40 years. Averagely, customers took longer trips than subscribers. There were more males subcribers and males customers than the other genders and this was not shocking because out of the total males were more than twice as much as females and more 30 times as much as others. 
