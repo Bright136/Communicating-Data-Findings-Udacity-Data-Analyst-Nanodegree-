@@ -114,7 +114,7 @@ This plot describes the distribution of age in years per trip. We realize the di
 ### 4.2 Bivariate Exploration <a name="bivariate"></a>
 #### Duration Vs Age
 This plot describes the relation bewteen  age and duration. We realize from the graphs most riders who took longer trips were between the ages of 25 and 35 years
-![Durations/Age](/images/bivar.PNG) 
+![Durations/Age](https://github.com/Bright136/Communicating-Data-Findings-Udacity-Data-Analyst-Nanodegree-/blob/master/images/bivar.png) 
 
 
 ### 4.3 Multivariate Exploration <a name="multivariate"></a>
