@@ -105,11 +105,11 @@ Under this part of the analysis the relationships between the features inthe dat
 ### 4.1 Univariate Exploration <a name="univariate"></a>
 #### Duration
 This plot describes the distribution of duration in seconds per trip. We realize most of the trips were within the 250 sec to 2000 secs range.
-![Durations](/images/uni_dura.PNG)  
+![Durations](https://github.com/Bright136/Communicating-Data-Findings-Udacity-Data-Analyst-Nanodegree-/blob/master/images/uni_dura.png)
 
 #### Age
 This plot describes the distribution of age in years per trip. We realize the distibution is concentrated between the ages of 20 and 40 years. This most frequent riders fell within that age range
-![Age](/images/uni_age.PNG)
+![Age](https://github.com/Bright136/Communicating-Data-Findings-Udacity-Data-Analyst-Nanodegree-/blob/master/images/uni_age.png)
 
 ### 4.2 Bivariate Exploration <a name="bivariate"></a>
 #### Duration Vs Age
@@ -120,7 +120,7 @@ This plot describes the relation bewteen  age and duration. We realize from the 
 ### 4.3 Multivariate Exploration <a name="multivariate"></a>
 #### Durations vs Gender, Age
 This plot describes the relation bewteen  duration against age and gender. From the graphs, we can see that the distribution is somehow the same for male and female but in other, the duration also decreases with age until it got to the ages around 55 years where the duration slightly jumps again.
-![Durations/Gender/Age](/images/multi.PNG)  
+![Durations/Gender/Age](https://github.com/Bright136/Communicating-Data-Findings-Udacity-Data-Analyst-Nanodegree-/blob/master/images/multi.png)
 
 
 
