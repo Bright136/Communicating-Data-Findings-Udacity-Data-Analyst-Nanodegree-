@@ -11,7 +11,7 @@ https://github.com/Bright136/Communicating-Data-Findings-Udacity-Data-Analyst-Na
 - Jupyter notebook: **Exploration_of_trip_data.ipynb**
 - data set: 201902-fordgobike-tripdata.csv
 
-![Tips](images/tip.jpg)
+![Bike Rental](images/bikes.jpg)
 
 # Table of contents
 1. [Introduction](#introduction)
