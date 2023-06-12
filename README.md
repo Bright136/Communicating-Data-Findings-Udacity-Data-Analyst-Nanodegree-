@@ -1,15 +1,16 @@
 # 🚀 The Ford GoBike Trip Dataset 🚀
 [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 ## Bright Ofori Boye Eshun
 
 
 ### Udactity Data Analyst Nanodegree Program
-
 Git-hub repository at:
 https://github.com/Bright136/Communicating-Data-Findings-Udacity-Data-Analyst-Nanodegree-
 
-- Jupyter notebook: **Exploration_of_trip_data.ipynb**
-- data set: 201902-fordgobike-tripdata.csv
+- Jupyter notebook: <a href='Exploration_of_trip_data.ipynb'>**Exploration_of_trip_data.ipynb**</a>
+- dataset: <a href='datasets\201902-fordgobike-tripdata.csv'>**201902-fordgobike-tripdata.csv**</a>
 
 ![Bike Rental](images/bikes.jpg)
 
@@ -29,8 +30,6 @@ https://github.com/Bright136/Communicating-Data-Findings-Udacity-Data-Analyst-Na
 
 
 4. [Findings and Conclusion](#conclusion)
-
-    
     
 6. [Key Insights](#insights)
 
@@ -153,8 +152,25 @@ The main findings of this analysis are:
 
 - We realised as the ages increases the trip duration decreases for all gender except in other where trip duration increased slightly for ages around 55 years.
 
--We realised a similar trend is users types between the ages of 50 and 60 who were subcribers compared to customers. They had relatively longer trip duration compared to customers. Could it be that this group of old age who are subcribers are of the gender other?
+- We realised a similar trend is users types between the ages of 50 and 60 who were subcribers compared to customers. They had relatively longer trip duration compared to customers. Could it be that this group of old age who are subcribers are of the gender other?
 
 
+### Contact Information 
 
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Twitter</th>
+    <th>LinkedIn</th>
+    <th>GitHub</th>
+    <th>Hugging Face</th>
+  </tr>
+  <tr>
+    <td>Bright Eshun</td>
+    <td><a href="https://twitter.com/bright_eshun_">@bright_eshun_</a></td>
+    <td><a href="https://www.linkedin.com/in/bright-eshun-9a8a51100/">@brighteshun</a></td>
+    <td><a href="https://github.com/Bright136">@bright136</a></td>
+    <td><a href="https://huggingface.co/bright1">@bright1</a></td>
+  </tr>
+</table>
 
